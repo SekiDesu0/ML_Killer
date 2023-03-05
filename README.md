@@ -1,4 +1,4 @@
 # ML_Killer
-fuck oculus
+-fuck oculus
 
-this looks for the Oculus Debug Tool memory leak and restarts ODTKRA
+-this looks for the Oculus Debug Tool memory leak and restarts ODTKRA
